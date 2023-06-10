@@ -1,0 +1,23 @@
+.contenedorModal {
+  position: absolute;
+  z-index: 10040;
+  overflow: auto;
+  overflow-y: auto;
+}
+
+ .contenedorModalDireccion{
+  /*position: absolute;
+  z-index: 10040;*/
+  overflow: auto;
+  overflow-y: auto;
+  margin-top: 8%;
+}
+
+.contenedorSelectModalDireccion {
+ /* position: absolute;
+  z-index: 2000;
+  z-index: 1080;
+  overflow: auto;
+  overflow-y: auto;
+  max-width: 100%;*/
+}

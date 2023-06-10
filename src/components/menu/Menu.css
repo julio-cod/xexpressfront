@@ -1,0 +1,36 @@
+
+.drawer .navbar-nav li a {
+    line-height: 150px;
+    height: 50px;
+    padding-top: 0;
+}
+
+.btnSesion .button{
+    margin-left: 1%;
+    
+    
+}
+
+.itemVisible {
+    visibility: visible;
+  }
+
+.itemOculto {
+    visibility: hidden;
+  }
+
+
+@media (max-width: 1000px) {
+   .btnSesion .button{
+        margin-top: 3%;
+        
+    }
+
+  }
+
+  .contenedorModal {
+    position: absolute;
+    z-index: 10040;
+    overflow: auto;
+    overflow-y: auto;
+  }
