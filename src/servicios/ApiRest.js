@@ -1,9 +1,9 @@
 
 //Produccion
-//export const ApiRestBase = 'http://192.168.1.41:9095/api/';
+export const ApiRestBase = 'https://xexpressback.azurewebsites.net/api/';
 
 //Desarrollo
-export const ApiRestBase = 'https://localhost:7194/api/';
+//export const ApiRestBase = 'https://localhost:7194/api/';
 
 //Endpoints Cliente
 export const ApiControladorCliente = 'Cliente/';
