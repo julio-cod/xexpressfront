@@ -17,7 +17,6 @@ export default function Home() {
     return (
         <div >
           <div >
-      
        <h1 className="container text-secondary">Sistema de Gestion X-Express</h1>
     </div>
        
